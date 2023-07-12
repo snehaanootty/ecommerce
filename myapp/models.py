@@ -14,3 +14,4 @@ class MobileStore(models.Model):
         return self.name
         
 
+# obj=MobileStore(name="vivo",user="anu",model="v30",rate="23927",storage="64gb",pic="images/headsetbluetooth.jpg/",description="jdvhdsujvhdv")
